@@ -3,14 +3,14 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.single-card {
+.form {
     width: 20%;
     margin: 5% auto;
 }
 
-.card {
+.login-card {
     border-radius: 15px;
-    background-color: #ebebeb;
+    background-color: #F01136;
     box-shadow: 4px 4px 5px 4px #b9b9b9;
     padding: 3%;
     display: flex;
@@ -19,6 +19,8 @@ body{
 
 .card-title {
     font-size: 26px;
+    margin: auto;
+    margin-bottom: 25px;
 }
 
 .label {
